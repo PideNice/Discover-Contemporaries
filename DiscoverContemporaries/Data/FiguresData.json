@@ -1,0 +1,158 @@
+{
+  "figures": [
+    {
+      "id": "Q762",
+      "name": "Leonardo da Vinci",
+      "descriptionText": "Artist, inventor, scientist, polymath, and one of the defining minds of the Renaissance.",
+      "gender": "Male",
+      "birthDate": "1452-04-15",
+      "deathDate": "1519-05-02",
+      "birthPlace": "Italy",
+      "occupations": [
+        "Polymath",
+        "Artist",
+        "Inventor",
+        "Scientist"
+      ],
+      "movements": [
+        "Renaissance"
+      ],
+      "imageName": "da-vinci",
+      "contemporaries": []
+    },
+    {
+      "id": "Q7259",
+      "name": "Ada Lovelace",
+      "descriptionText": "Known for early work on Charles Babbage's Analytical Engine and ideas about computing.",
+      "gender": "Female",
+      "birthDate": "1815-12-10",
+      "deathDate": "1852-11-27",
+      "birthPlace": "United Kingdom",
+      "occupations": [
+        "Mathematician",
+        "Writer"
+      ],
+      "movements": [],
+      "imageName": "ada-lovelace",
+      "contemporaries": []
+    },
+    {
+      "id": "Q9682",
+      "name": "Elizabeth II",
+      "descriptionText": "Former Queen of the United Kingdom.",
+      "gender": "Female",
+      "birthDate": "1926-04-21",
+      "deathDate": "2022-09-08",
+      "birthPlace": "United Kingdom",
+      "occupations": [
+        "Monarch"
+      ],
+      "movements": [],
+      "imageName": "elizabeth",
+      "contemporaries": []
+    },
+    {
+      "id": "Q2831",
+      "name": "Michael Jackson",
+      "descriptionText": "A globally influential performer whose music, dance, and videos reshaped popular culture.",
+      "gender": "Male",
+      "birthDate": "1958-08-29",
+      "deathDate": "2009-06-25",
+      "birthPlace": "United States",
+      "occupations": [
+        "Performer",
+        "Singer",
+        "Dancer",
+        "Songwriter"
+      ],
+      "movements": [
+        "Pop music"
+      ],
+      "imageName": "mj",
+      "contemporaries": []
+    },
+    {
+      "id": "Q635",
+      "name": "Cleopatra VII",
+      "descriptionText": "Last active ruler of Ptolemaic Egypt, known for her political alliances with Julius Caesar and Mark Antony.",
+      "gender": "Female",
+      "birthDate": null,
+      "deathDate": null,
+      "birthPlace": "Ptolemaic Egypt",
+      "occupations": [
+        "Monarch",
+        "Political leader"
+      ],
+      "movements": [],
+      "imageName": null,
+      "contemporaries": []
+    },
+    {
+      "id": "Q1696",
+      "name": "Wu Zetian",
+      "descriptionText": "The only woman to formally rule China as emperor, governing during the Zhou dynasty established within the Tang period.",
+      "gender": "Female",
+      "birthDate": "0624-01-01",
+      "deathDate": "0705-12-16",
+      "birthPlace": "China",
+      "occupations": [
+        "Emperor",
+        "Monarch"
+      ],
+      "movements": [
+        "Tang dynasty"
+      ],
+      "imageName": "wu-zetian",
+      "contemporaries": []
+    },
+    {
+      "id": "Q7207",
+      "name": "Elizabeth I",
+      "descriptionText": "Queen of England and Ireland whose reign saw major cultural, political, and maritime developments.",
+      "gender": "Female",
+      "birthDate": "1533-09-07",
+      "deathDate": "1603-03-24",
+      "birthPlace": "England",
+      "occupations": [
+        "Monarch"
+      ],
+      "movements": [
+        "Elizabethan era"
+      ],
+      "imageName": null,
+      "contemporaries": []
+    },
+    {
+      "id": "Q7186",
+      "name": "Marie Curie",
+      "descriptionText": "Physicist and chemist whose pioneering research on radioactivity earned her two Nobel Prizes.",
+      "gender": "Female",
+      "birthDate": "1867-11-07",
+      "deathDate": "1934-07-04",
+      "birthPlace": "Poland",
+      "occupations": [
+        "Physicist",
+        "Chemist"
+      ],
+      "movements": [],
+      "imageName": "marie-curie",
+      "contemporaries": []
+    },
+    {
+      "id": "Q5582",
+      "name": "Vincent van Gogh",
+      "descriptionText": "Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art. In just over a decade he created about 2,100 artworks, including around 860 oil paintings, most of them in the last two years of his life.",
+      "gender": "Male",
+      "birthDate": "1853-03-30",
+      "deathDate": "1890-07-29",
+      "birthPlace": "Zundert",
+      "occupations": [
+        "Painter",
+        "Art Dealer"
+      ],
+      "movements": [],
+      "imageName": "vincent-van-gogh",
+      "contemporaries": []
+    }
+  ]
+}
